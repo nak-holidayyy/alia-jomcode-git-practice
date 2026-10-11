@@ -18,3 +18,5 @@ def test_capacity():
     assert validate_capacity(505) == 505
 
 print(test_capacity())
+
+# exampl 2 use this command to run > py -m pytest file_name.py
